@@ -1,6 +1,6 @@
 # Marcelo Soares Peralta
 
-## Student at DCI Berlin
+## Student at DCI Bootcamp Berlin
 
 🌱 I’m currently learning Web Development at [Digital Career Institute](https://digitalcareerinstitute.org/) in Berlin.  
 
