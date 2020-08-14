@@ -6,6 +6,4 @@
 
 📫 How to reach me:
 
-[LinkedIn](https://www.linkedin.com/in/marcelo-soares-peralta-b1a7aa95/)  
-
-[E-mail](marcelosperalta@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/marcelo-soares-peralta-b1a7aa95/)
