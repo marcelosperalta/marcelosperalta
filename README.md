@@ -1,16 +1,17 @@
-### Hi there 👋
+# Marcelo Soares Peralta
 
-<!--
-**marcelosperalta/marcelosperalta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Student at DCI Berlin
 
-Here are some ideas to get you started:
+🌱 I’m currently learning Web Development at [Digital Career Institute](https://digitalcareerinstitute.org/) in Berlin.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 How to reach me:
+
+<p>
+    <a href="https://www.linkedin.com/in/marcelo-soares-peralta-b1a7aa95/">
+        <img src="logo-linkedin.png" alt="Linkedin" style="max-width:100px;">
+    </a>
+    &nbsp;
+    <a href="mailto:marcelosperalta@gmail.com">
+        <img src="logo-gmail.png" alt="Email" style="max-width:113px;">
+    </a>
+</p>
