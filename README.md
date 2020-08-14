@@ -6,4 +6,4 @@
 
 📫 How to reach me:
 
-[LinkedIn](https://www.linkedin.com/in/marcelo-soares-peralta-b1a7aa95/)
+<a href="https://www.linkedin.com/in/marcelo-soares-peralta-b1a7aa95/"><img src="https://content.linkedin.com/content/dam/me/brand/en-us/brand-home/logos/01-dsk-e8-v2.png.original.png" alt="Linkedin" style="max-width:10px;"></a>
