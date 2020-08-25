@@ -13,7 +13,7 @@
 
 :bar_chart: GitHub Stats:
 
-[![Marcelo's github stats](https://github-readme-stats.marcelosperalta.vercel.app/api?username=marcelosperalta&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Marcelo's github stats](https://github-readme-stats.marcelosperalta.vercel.app/api?username=marcelosperalta&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.marcelosperalta.vercel.app/api/top-langs/?username=marcelosperalta&layout=compact&hide=java,objective-c)](https://github.com/marcelosperalta)
 
