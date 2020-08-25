@@ -14,8 +14,12 @@
 
 :bar_chart: GitHub Stats:
 
-[![Marcelo's github stats](https://github-readme-stats.vercel.app/api?username=marcelosperalta&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Marcelo's github stats](https://github-readme-stats.marcelosperalta.vercel.app/api?username=marcelosperalta&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.marcelosperalta.vercel.app/api/top-langs/?username=marcelosperalta&hide=java,objective-c)](https://github.com/marcelosperalta)
 
 :pushpin: Pinned:
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=marcelosperalta&repo=mock-up_e-learning_platform)](https://github.com/marcelosperalta/dci)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=marcelosperalta&repo=mock-up_e-learning_platform_front-end)](https://github.com/marcelosperalta/javascript)
+[![ReadMe Card](https://github-readme-stats.marcelosperalta.vercel.app/api/pin/?username=marcelosperalta&repo=dci)](https://github.com/marcelosperalta/dci)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![ReadMe Card](https://github-readme-stats.marcelosperalta.vercel.app/api/pin/?username=marcelosperalta&repo=javascript)](https://github.com/marcelosperalta/javascript)
+
+[![ReadMe Card](https://github-readme-stats.marcelosperalta.vercel.app/api/pin/?username=marcelosperalta&repo=mock-up_e-learning_platform)](https://github.com/marcelosperalta/dci)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![ReadMe Card](https://github-readme-stats.marcelosperalta.vercel.app/api/pin/?username=marcelosperalta&repo=mock-up_e-learning_platform_front-end)](https://github.com/marcelosperalta/javascript)
