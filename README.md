@@ -4,7 +4,7 @@
 
 :mortar_board: I’m currently learning Web Development at [Digital Career Institute](https://digitalcareerinstitute.org/) in Berlin.  
 
-<img height="80" src="https://github.com/marcelosperalta/dci/blob/master/img_mern_2.png"/>
+<img height="130" src="https://github.com/marcelosperalta/dci/blob/master/img_mern_2.png"/>
 
 :mailbox: How to reach me:  
 
