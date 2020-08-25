@@ -1,5 +1,7 @@
 # Marcelo Soares Peralta
 
+<img height="50" src="https://github.com/marcelosperalta/dci/blob/master/img_mern.png"/>
+
 ## Student at DCI Bootcamp Berlin
 
 :mortar_board: I’m currently learning Web Development at [Digital Career Institute](https://digitalcareerinstitute.org/) in Berlin.  
