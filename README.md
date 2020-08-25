@@ -18,6 +18,6 @@
 
 :pushpin: Pinned:
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=marcelosperalta&repo=dci)](https://github.com/anuraghazra/github-readme-stats)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=marcelosperalta&repo=javascript)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=marcelosperalta&repo=dci)](https://github.com/marcelosperalta/dci)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=marcelosperalta&repo=javascript)](https://github.com/marcelosperalta/javascript)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=marcelosperalta&repo=dci)](https://github.com/anuraghazra/github-readme-stats)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=marcelosperalta&repo=javascript)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=marcelosperalta&repo=mock-up_e-learning_platform)](https://github.com/marcelosperalta/dci)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=marcelosperalta&repo=mock-up_e-learning_platform_front-end)](https://github.com/marcelosperalta/javascript)
