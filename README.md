@@ -15,3 +15,9 @@
 :bar_chart: GitHub Stats:
 
 [![Marcelo's github stats](https://github-readme-stats.vercel.app/api?username=marcelosperalta&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+:pushpin: Pinned:
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=marcelosperalta&repo=dci)](https://github.com/anuraghazra/github-readme-stats)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=marcelosperalta&repo=dci)](https://github.com/anuraghazra/github-readme-stats)
