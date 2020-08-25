@@ -18,4 +18,4 @@
 
 :pushpin: Pinned:
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=marcelosperalta&repo=dci)](https://github.com/anuraghazra/github-readme-stats)&nbsp;&nbsp;&nbsp;&nbsp;[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=marcelosperalta&repo=dci)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=marcelosperalta&repo=dci)](https://github.com/anuraghazra/github-readme-stats)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=marcelosperalta&repo=dci)](https://github.com/anuraghazra/github-readme-stats)
