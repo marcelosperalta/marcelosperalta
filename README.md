@@ -19,6 +19,8 @@
 
 :pushpin: Pinned:
 
-[![ReadMe Card](https://github-readme-stats.marcelosperalta.vercel.app/api/pin/?username=marcelosperalta&repo=dci)](https://github.com/marcelosperalta/dci)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![ReadMe Card](https://github-readme-stats.marcelosperalta.vercel.app/api/pin/?username=marcelosperalta&repo=todoApp_react)](https://github.com/marcelosperalta/todoApp_react)
+[![ReadMe Card](https://github-readme-stats.marcelosperalta.vercel.app/api/pin/?username=marcelosperalta&repo=dci)](https://github.com/marcelosperalta/dci)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![ReadMe Card](https://github-readme-stats.marcelosperalta.vercel.app/api/pin/?username=marcelosperalta&repo=rocketseat)](https://github.com/marcelosperalta/rocketseat)
+
+[![ReadMe Card](https://github-readme-stats.marcelosperalta.vercel.app/api/pin/?username=marcelosperalta&repo=portfolio)](https://github.com/marcelosperalta/portfolio)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![ReadMe Card](https://github-readme-stats.marcelosperalta.vercel.app/api/pin/?username=marcelosperalta&repo=todoApp_react)](https://github.com/marcelosperalta/todoApp_react)
 
 [![ReadMe Card](https://github-readme-stats.marcelosperalta.vercel.app/api/pin/?username=marcelosperalta&repo=mock-up_e-learning_platform)](https://github.com/marcelosperalta/mock-up_e-learning_platform)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![ReadMe Card](https://github-readme-stats.marcelosperalta.vercel.app/api/pin/?username=marcelosperalta&repo=mock-up_e-learning_platform_front-end)](https://github.com/marcelosperalta/mock-up_e-learning_platform_front-end)
