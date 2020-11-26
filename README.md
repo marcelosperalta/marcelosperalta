@@ -19,7 +19,7 @@
 
 :pushpin: Pinned:
 
-[![ReadMe Card](https://github-readme-stats.marcelosperalta.vercel.app/api/pin/?username=marcelosperalta&repo=dci)](https://github.com/marcelosperalta/dci)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![ReadMe Card](https://github-readme-stats.marcelosperalta.vercel.app/api/pin/?username=marcelosperalta&repo=rocketseat)](https://github.com/marcelosperalta/rocketseat)
+[![ReadMe Card](https://github-readme-stats.marcelosperalta.vercel.app/api/pin/?username=marcelosperalta&repo=rocketseat)](https://github.com/marcelosperalta/bootcamp_rocketseat)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![ReadMe Card](https://github-readme-stats.marcelosperalta.vercel.app/api/pin/?username=marcelosperalta&repo=dci)](https://github.com/marcelosperalta/bootcamp_dci)
 
 [![ReadMe Card](https://github-readme-stats.marcelosperalta.vercel.app/api/pin/?username=marcelosperalta&repo=portfolio)](https://github.com/marcelosperalta/portfolio)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![ReadMe Card](https://github-readme-stats.marcelosperalta.vercel.app/api/pin/?username=marcelosperalta&repo=todoApp_react)](https://github.com/marcelosperalta/todoApp_react)
 
