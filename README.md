@@ -2,7 +2,7 @@
 
 ## Student at DCI Bootcamp Berlin
 
-:mortar_board: I’m currently learning Web Development at [Digital Career Institute](https://digitalcareerinstitute.org/) in Berlin.  
+:mortar_board: Certified as Web Developer by @DigitalCareerInstitute in Berlin.  
 
 <img height="200" src="https://github.com/marcelosperalta/dci/blob/master/img_mern.png"/>
 
