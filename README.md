@@ -4,14 +4,14 @@
 
 :mortar_board: Certified as Web Developer by [Digital Career Institute](https://digitalcareerinstitute.org/) in Berlin.  
 
-<img height="200" src="https://github.com/marcelosperalta/dci/blob/master/img_mern.png"/>
+<!-- <img height="200" src="https://github.com/marcelosperalta/dci/blob/master/img_mern.png"/> -->
 
 :mailbox: How to reach me:  
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-Marcelo%20Soares%20Peralta-blue)](https://www.linkedin.com/in/marcelo-soares-peralta-b1a7aa95/)
 <a href="mailto:marcelosperalta@gmail.com">![email](https://img.shields.io/badge/e--mail-marcelosperalta%40gmail.com-red)</a>
 
-:bar_chart: GitHub Stats:
+<!-- :bar_chart: GitHub Stats:
 
 [![Top Langs](https://github-readme-stats.marcelosperalta.vercel.app/api/top-langs/?username=marcelosperalta&layout=compact&hide=java,objective-c)](https://github.com/marcelosperalta)
 
@@ -25,4 +25,4 @@
 
 [![ReadMe Card](https://github-readme-stats.marcelosperalta.vercel.app/api/pin/?username=marcelosperalta&repo=app_front-end_orphanages_finder)](https://github.com/marcelosperalta/app_front-end_orphanages_finder)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![ReadMe Card](https://github-readme-stats.marcelosperalta.vercel.app/api/pin/?username=marcelosperalta&repo=app_fullstack_orphanages_finder)](https://github.com/marcelosperalta/app_fullstack_orphanages_finder)
 
-[![ReadMe Card](https://github-readme-stats.marcelosperalta.vercel.app/api/pin/?username=marcelosperalta&repo=ui_clone_tesla)](https://github.com/marcelosperalta/ui_clone_tesla)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![ReadMe Card](https://github-readme-stats.marcelosperalta.vercel.app/api/pin/?username=marcelosperalta&repo=ui_clone_pinterest)](https://github.com/marcelosperalta/ui_clone_pinterest)
+[![ReadMe Card](https://github-readme-stats.marcelosperalta.vercel.app/api/pin/?username=marcelosperalta&repo=ui_clone_tesla)](https://github.com/marcelosperalta/ui_clone_tesla)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![ReadMe Card](https://github-readme-stats.marcelosperalta.vercel.app/api/pin/?username=marcelosperalta&repo=ui_clone_pinterest)](https://github.com/marcelosperalta/ui_clone_pinterest) -->
