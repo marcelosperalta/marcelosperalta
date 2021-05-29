@@ -2,7 +2,9 @@
 
 <!-- <img height="200" src="https://github.com/marcelosperalta/dci/blob/master/img_mern.png"/> -->
 
-:mailbox: How to reach me: [![linkedin](https://img.shields.io/badge/LinkedIn-Marcelo%20Soares%20Peralta-blue)](https://www.linkedin.com/in/marcelo-soares-peralta-b1a7aa95/)
+:mailbox: How to reach me:  
+
+[![linkedin](https://img.shields.io/badge/LinkedIn-Marcelo%20Soares%20Peralta-blue)](https://www.linkedin.com/in/marcelo-soares-peralta-b1a7aa95/)
 <a href="mailto:marcelosperalta@gmail.com">![email](https://img.shields.io/badge/e--mail-marcelosperalta%40gmail.com-red)</a>
 
 <!-- :bar_chart: GitHub Stats:
