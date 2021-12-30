@@ -1,24 +1,15 @@
-:mortar_board: Certified as Web Developer by [Digital Career Institute](https://digitalcareerinstitute.org/) in Berlin.  
+:mortar_board: These are some of the technologies and tools that I work with:  
 
-<!-- <img height="200" src="https://github.com/marcelosperalta/dci/blob/master/img_mern.png"/> -->
+<div>
+  <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML"/>
+  <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/>
+  <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript"/>
+  <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="TypeScript"/>
+  <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/>
+  <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Node.js"/>
+</div>
 
 :mailbox: How to reach me:  
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-Marcelo%20Soares%20Peralta-blue)](https://www.linkedin.com/in/marcelo-soares-peralta-b1a7aa95/)
 <a href="mailto:marcelosperalta@gmail.com">![email](https://img.shields.io/badge/e--mail-marcelosperalta%40gmail.com-red)</a>
-
-<!-- :bar_chart: GitHub Stats:
-
-[![Top Langs](https://github-readme-stats.marcelosperalta.vercel.app/api/top-langs/?username=marcelosperalta&layout=compact&hide=java,objective-c)](https://github.com/marcelosperalta)
-
-[![Marcelo's github stats](https://github-readme-stats.marcelosperalta.vercel.app/api?username=marcelosperalta&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
-:pushpin: Pinned:
-
-[![ReadMe Card](https://github-readme-stats.marcelosperalta.vercel.app/api/pin/?username=marcelosperalta&repo=bootcamp_rocketseat)](https://github.com/marcelosperalta/bootcamp_rocketseat)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![ReadMe Card](https://github-readme-stats.marcelosperalta.vercel.app/api/pin/?username=marcelosperalta&repo=bootcamp_dci)](https://github.com/marcelosperalta/bootcamp_dci)
-
-[![ReadMe Card](https://github-readme-stats.marcelosperalta.vercel.app/api/pin/?username=marcelosperalta&repo=app_front-end_e-learning_platform)](https://github.com/marcelosperalta/app_front-end_e-learning_platform)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![ReadMe Card](https://github-readme-stats.marcelosperalta.vercel.app/api/pin/?username=marcelosperalta&repo=app_fullstack_e-learning_platform)](https://github.com/marcelosperalta/app_fullstack_e-learning_platform)
-
-[![ReadMe Card](https://github-readme-stats.marcelosperalta.vercel.app/api/pin/?username=marcelosperalta&repo=app_front-end_orphanages_finder)](https://github.com/marcelosperalta/app_front-end_orphanages_finder)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![ReadMe Card](https://github-readme-stats.marcelosperalta.vercel.app/api/pin/?username=marcelosperalta&repo=app_fullstack_orphanages_finder)](https://github.com/marcelosperalta/app_fullstack_orphanages_finder)
-
-[![ReadMe Card](https://github-readme-stats.marcelosperalta.vercel.app/api/pin/?username=marcelosperalta&repo=ui_clone_tesla)](https://github.com/marcelosperalta/ui_clone_tesla)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![ReadMe Card](https://github-readme-stats.marcelosperalta.vercel.app/api/pin/?username=marcelosperalta&repo=ui_clone_pinterest)](https://github.com/marcelosperalta/ui_clone_pinterest) -->
