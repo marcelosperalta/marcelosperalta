@@ -5,7 +5,6 @@
     height="40" 
     src="./assets/techs_tools.png" 
     alt="Techs"
-    style="border-radius: 5px"
   />
 </div>
 
