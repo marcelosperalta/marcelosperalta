@@ -1,12 +1,11 @@
-:fire: These are some of the technologies and tools that I work with:  
+:dart: Currently focusing on these languages and tools:  
 
-<div>
-  <img 
-    height="40" 
-    src="./assets/techs_tools.png" 
-    alt="Techs"
-  />
-</div>
+:small_blue_diamond: HTML
+:small_blue_diamond: CSS
+:small_blue_diamond: JavaScript
+:small_blue_diamond: React
+:small_blue_diamond: TypeScript
+:small_blue_diamond: Node.js
 
 <br>
 
