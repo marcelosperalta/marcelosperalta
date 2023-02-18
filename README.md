@@ -1,11 +1,6 @@
 :dart: Currently focusing on these languages and tools:  
 
-:small_blue_diamond: HTML  
-:small_blue_diamond: CSS  
-:small_blue_diamond: JavaScript  
-:small_blue_diamond: React  
-:small_blue_diamond: TypeScript  
-:small_blue_diamond: Node.js  
+:small_blue_diamond: HTML :small_blue_diamond: CSS :small_blue_diamond: JavaScript :small_blue_diamond: React :small_blue_diamond: TypeScript :small_blue_diamond: Node.js :small_blue_diamond:  
 
 :mailbox: How to reach me:  
 
